@@ -3,4 +3,4 @@
 - LGBM
 - catboost
 - model ensemble
-- Coursera - 
+- Coursera - Applied data science using python
