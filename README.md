@@ -4,4 +4,4 @@
 - catboost
 - model ensemble
 - Coursera - Applied data science using python
-- Speech 2 text & sPaCy
+- Speech 2 text & spaCy
