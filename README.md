@@ -2,14 +2,16 @@
 
 **Table of Contents**
 
-- [gradient boosting](#GBMs)
+- [Boosting](#GBMs)
 
 
 
-#gradient boosting
+## Boosting
 - XGBoost
 - LGBM
 - catboost
+
+## Ensemble
 - model ensemble
 - Coursera - Applied data science using python
 - Speech 2 text & spaCy
