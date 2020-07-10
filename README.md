@@ -1,4 +1,7 @@
 # ml-learn
+
+**Table of Contents**
+
 - XGBoost
 - LGBM
 - catboost
