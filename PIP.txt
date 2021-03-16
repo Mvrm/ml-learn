@@ -1,0 +1,48 @@
+# Creating virtual environment in Mac/Linux
+ python3 -m venv env
+
+# Creating virtual environment in Windows
+py -m venv env
+
+# Pip commands:
+ pip help <command_name>
+ example: pip help <install>
+ 
+ --outdated/ -o for listing all the outdated packages
+ 
+ pip list --outdated or 
+ pip list -o
+ 
+ --uptodate/ -u for listing all the up-to-date packages
+ 
+ pip list --uptodate or 
+ pip list -u
+ 
+ # Install
+ 
+ pip install package_name 
+ 
+ pip install --upgrade/ -U package_name
+ 
+ 
+ pip install -r requirements.txt
+ 
+ #Show installed package version
+ 
+ pip show package_name
+ 
+ pip show --verbose package_name
+ 
+ #Uninstall specific package
+ 
+ pip uninstall package_name
+ 
+ #Pip Freeze - outputs all the installed packages and their version number in requirements format
+ 
+ pip freeze
+ 
+ pip freeze > requirements.txt
+ 
+ 
+ 
+ 
