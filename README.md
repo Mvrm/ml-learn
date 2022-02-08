@@ -2,9 +2,7 @@
 
 **Table of Contents**
 
-- XGBoost
-- LGBM
-- catboost
+- Boosting : XGBoost, LGBM, Catboost
 - Ensemble
-- model ensemble
-- model explainability
+- Model Ensemble
+- Model Explainability
