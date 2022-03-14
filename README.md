@@ -3,6 +3,5 @@
 **Table of Contents**
 
 - Boosting : XGBoost, LGBM, Catboost
-- Ensemble
-- Model Ensemble
-- Model Explainability
+- Ensemble : Stacking
+- Model Explainability: SHAP, LIME, PDP
