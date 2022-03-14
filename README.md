@@ -2,6 +2,7 @@
 
 **Table of Contents**
 
+- Regression : Linear, Polynomial, Ridge, Lasso, Logistic, Multinomial 
 - Boosting : XGBoost, LGBM, Catboost
 - Ensemble : Stacking
 - Model Explainability : SHAP, LIME, PDP
