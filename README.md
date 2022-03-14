@@ -4,4 +4,7 @@
 
 - Boosting : XGBoost, LGBM, Catboost
 - Ensemble : Stacking
-- Model Explainability: SHAP, LIME, PDP
+- Model Explainability : SHAP, LIME, PDP
+- MLOps : mlbox
+- Deployment
+- AWS
