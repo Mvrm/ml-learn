@@ -6,5 +6,5 @@
 - Ensemble : Stacking
 - Model Explainability : SHAP, LIME, PDP
 - MLOps : mlbox
-- Deployment
-- AWS
+- Deployment : SKlearn pipeline
+- AWS : S3 Athena
