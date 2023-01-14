@@ -1,4 +1,4 @@
-# Creating virtual environment in Mac/Linux
+########### Creating virtual environment in Mac/Linux ##############
  python3 -m venv env
 
 # Creating virtual environment in Windows
@@ -18,7 +18,7 @@ py -m venv env
  pip list --uptodate or 
  pip list -u
  
- # Install
+######### Install
  
  pip install package_name 
  
@@ -27,17 +27,17 @@ py -m venv env
  
  pip install -r requirements.txt
  
- #Show installed package version
+####### Show installed package version
  
  pip show package_name
  
  pip show --verbose package_name
  
- #Uninstall specific package
+####### Uninstall specific package
  
  pip uninstall package_name
  
- #Pip Freeze - outputs all the installed packages and their version number in requirements format
+########### Pip Freeze - outputs all the installed packages and their version number in requirements format
  
  pip freeze
  
